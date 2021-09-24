@@ -22,28 +22,28 @@
 
 <details>
   <summary>
-    💬 More stuff about me
+    <strong>💬 More info about me</strong>
   </summary>
   
-:female_sign: Pronouns: she/her
+  :female_sign: Pronouns: she/her
 
-:cherry_blossom: Ethnicity: Japanese-Brasilian
+  :cherry_blossom: Ethnicity: Japanese-Brasilian
 
-:libra: Sign: Libra with Scorpio Rising
+  :libra: Sign: Libra with Scorpio Rising
 
-:tea: Choice of beverage: English Breakfast black tea in the morning, black coffee (no sugar!) after lunch, Ceylon black tea in the afternoon, and green tea after dinner.
+  :tea: Choice of beverage: English Breakfast black tea in the morning, black coffee (no sugar!) after lunch, Ceylon black tea in the afternoon, and green tea after dinner.
 
-:cake: Favourite deserts: Strawberry Shortcake and Mille Feuille
+  :cake: Favourite deserts: Strawberry Shortcake and Mille Feuille
 
-:video_game: Videogames: Rhythm games (I am currently playing Utapri Shining Live and Argonavis AASide)
+  :video_game: Videogames: Rhythm games (I am currently playing Utapri Shining Live and Argonavis AASide)
 
-:books: Books: Mainly young adult, fantasy and detective books
+  :books: Books: Mainly young adult, fantasy and detective books
 
-:clapper: TV Shows: Period dramas, sports anime, and RuPaul’s Drag Race
+  :clapper: TV Shows: Period dramas, sports anime, and RuPaul’s Drag Race
 
-:microphone: Karaoke: I love singing even though I do not sing well ^^;
+  :microphone: Karaoke: I love singing even though I do not sing well ^^;
 
-:yarn: Crafts: I can knit, crochet, sew, and embroider
+  :yarn: Crafts: I can knit, crochet, sew, and embroider
 
-:airplane: Places I want to visit: Japan (again), Patagonia, New Zealand, Australia, Scotland, Sweden
+  :airplane: Places I want to visit: Japan (again), Patagonia, New Zealand, Australia, Scotland, Sweden
 </details>
