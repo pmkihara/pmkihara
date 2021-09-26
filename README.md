@@ -20,30 +20,27 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-kihara)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/437291396374724618)
 
-<details>
-  <summary>
-    <strong>💬 More info about me</strong>
-  </summary>
-  
-  :female_sign: Pronouns: she/her
-
-  :cherry_blossom: Ethnicity: Japanese-Brasilian
-
-  :libra: Sign: Libra with Scorpio Rising
-
-  :tea: Choice of beverage: English Breakfast black tea in the morning, black coffee (no sugar!) after lunch, Ceylon black tea in the afternoon, and green tea after dinner.
-
-  :cake: Favourite deserts: Strawberry Shortcake and Mille Feuille
-
-  :video_game: Videogames: Rhythm games (I am currently playing Utapri Shining Live and Argonavis AASide)
-
-  :books: Books: Mainly young adult, fantasy and detective books
-
-  :clapper: TV Shows: Period dramas, sports anime, and RuPaul’s Drag Race
-
-  :microphone: Karaoke: I love singing even though I do not sing well ^^;
-
-  :yarn: Crafts: I can knit, crochet, sew, and embroider
-
-  :airplane: Places I want to visit: Japan (again), Patagonia, New Zealand, Australia, Scotland, Sweden
-</details>
+## :speech_balloon:	Curious and curiouser
+```ruby
+pronouns = "she/her"
+ethnicity = "Japanese Brazilian"
+zodiac_sign = "Libra with Scorpio Rising"
+beverages = {
+  morning: "English Breakfast tea",
+  after_lunch: "Black coffee",
+  afternoon: "Ceylon tea",
+  after_dinner: "Green tea"
+}
+favorite_sweets = ["Strawberry Shortcake", "Mille Feuille"]
+places_i_want_to_visit = ["Japan", "Patagonia", "New Zeland"]
+hobbies = {
+  karaoke: true, #however, I don't sing well
+  reading: true,
+  crafts:  %w(Knitting Crochet Sewing Embroidery)
+}
+games = {
+  all_time_favorites: ["Phoenix Wright Ace Attorney", "Professor Layton"],
+  i_am_playing: ["Utapri Shining Live", "Argonavis AASide", "Tears of Themis"]
+}
+tv_shows = ["Period dramas", "Sports anime", "RuPaul's Drag Race"]
+```
