@@ -42,5 +42,5 @@ games = {
   all_time_favorites: ["Phoenix Wright Ace Attorney", "Professor Layton"],
   i_am_playing: ["Utapri Shining Live", "Argonavis AASide", "Tears of Themis"]
 }
-tv-shows = ["Period dramas", "Sports anime", "RuPaul's Drag Race"]
+tv_shows = ["Period dramas", "Sports anime", "RuPaul's Drag Race"]
 ```
