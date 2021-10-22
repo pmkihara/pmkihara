@@ -32,9 +32,9 @@ beverages = {
   after_dinner: "Green tea"
 }
 favorite_sweets = ["Strawberry Shortcake", "Mille Feuille"]
-places_i_want_to_visit = ["Japan", "Patagonia", "New Zeland"]
+places_i_want_to_visit = ["Japan", "UK", "Patagonia", "New Zealand", "Australia"]
 hobbies = {
-  karaoke: true, #however, I don't sing well
+  karaoke: true, # but I don't sing well
   reading: true,
   crafts:  %w(Knitting Crochet Sewing Embroidery)
 }
