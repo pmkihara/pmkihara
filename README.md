@@ -1,6 +1,7 @@
 ![Patricia Mey Kihara banner](/assets/images/header.png)
 
 ## :supervillain_woman:  About me
+- Full-stack developer | TA at Le Wagon
 - Le Wagon alumni (Batch #690 - Web Development)
 - Former Fashion designer
 - Law School graduate
